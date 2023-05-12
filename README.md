@@ -1,4 +1,4 @@
-
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shivam Bhatt</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.softprodigy.com/wp-content/uploads/2020/10/327-2.gif">
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shivam.bhatt1512@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Piholc6bN45IN6U5MQAPeMkZ0NRkQK5_/view?usp=sharing](https://drive.google.com/file/d/1Piholc6bN45IN6U5MQAPeMkZ0NRkQK5_/view?usp=sharing)
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
