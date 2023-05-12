@@ -13,9 +13,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivambhatt15](https://github.com/shivambhatt15)
-
-- 💬 Ask me about **Reactjs,Html5,Css3,Bootstrap5,Javascript**
+- 💬 Ask me about **Reactjs, Html5, Css3, Javascript**
 
 - 📫 How to reach me **shivam.bhatt1512@gmail.com**
 
