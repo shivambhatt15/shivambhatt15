@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivam Bhatt</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://dribbble.com/shots/4502924-Python-developer-animation" align="right" alt="Coding" width="400">
+<img align="right" src="https://dribbble.com/shots/4502924-Python-developer-animation" alt="Coding" width="400">
 <p align="left">
   <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="shivambhatt15" /> </p>
 
