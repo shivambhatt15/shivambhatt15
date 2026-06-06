@@ -1,39 +1,169 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Shivam Bhatt</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.softprodigy.com/wp-content/uploads/2020/10/327-2.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Shivam%20Bhatt&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
 
+<h1 align="center">👋 Hi, I'm Shivam Bhatt</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<h3 align="center">
+Shopify Developer • WordPress Developer • Frontend Specialist
+</h3>
 
-<p align="left"> <a href="https://twitter.com/shivam897739369" target="blank">
-  <img src="https://img.shields.io/twitter/follow/shivam897739369?logo=twitter&style=for-the-badge" alt="shivam897739369" />
-  </a>
+<p align="center">
+Building high-converting eCommerce experiences with Shopify, WordPress and modern frontend technologies.
 </p>
 
-- 🌱 I’m currently learning **ReactJs**
+---
 
-- 💬 Ask me about **Reactjs, Html5, Css3, Javascript**
+## 🚀 About Me
 
-- 📫 How to reach me **shivam.bhatt1512@gmail.com**
+🔹 Shopify Theme Development & Customization
 
-- ⚡ Fun fact **I am Funny**
+🔹 Shopify CRO & Performance Optimization
 
-<h3 align="left">Connect with me:</h3>
+🔹 WordPress Development & Custom Themes
+
+🔹 Landing Pages & Conversion-Focused Design
+
+🔹 Responsive UI Development
+
+🔹 HTML, CSS, JavaScript, Liquid & PHP
+
+🔹 Figma to Shopify / WordPress
+
+🔹 Page Speed Optimization
+
+---
+
+## 💼 Current Focus
+
+- Advanced Shopify Theme Development
+- Shopify Sections & App Integrations
+- Custom Liquid Components
+- WordPress Custom Development
+- CRO Focused Landing Pages
+- Store Performance Optimization
+
+---
+
+## 🛠 Tech Stack
+
+### Ecommerce
+
+<p>
+<img src="https://skillicons.dev/icons?i=shopify,wordpress" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,nodejs,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivambhatt15&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivambhatt15&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
+</p>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivambhatt15&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivambhatt15&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌟 Featured Skills
+
+✔ Shopify 2.0
+
+✔ Liquid Development
+
+✔ Shopify Metafields
+
+✔ Shopify Custom Sections
+
+✔ WordPress Theme Development
+
+✔ WooCommerce
+
+✔ ACF Pro
+
+✔ Elementor
+
+✔ JavaScript Development
+
+✔ Responsive Web Design
+
+✔ SEO & Performance Optimization
+
+---
+
+## 🏆 Featured Projects
+
+### Shopify Projects
+
+- Custom Shopify Theme Development
+- Shopify Product Page Customization
+- Dynamic Metafield Sections
+- Variant Swatches & Product Configurators
+- CRO Landing Pages
+
+### WordPress Projects
+
+- Custom WordPress Themes
+- ACF Pro Solutions
+- WooCommerce Stores
+- Landing Page Development
+- Custom Plugins & Functionality
+
+---
+
+## 📫 Connect With Me
+
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/mca_2a_05_shivam-bhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mca_2a_05_shivam-bhatt" height="30" width="40" /></a>
-<a href="https://twitter.com/shivam897739369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam897739369" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-bhatt-1a36b621b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-bhatt-1a36b621b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/edit/21880873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/edit/21880873" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shivam.bhatt.7798?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shivam.bhatt.7798?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/_shivam_1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shivam_1512" height="30" width="40" /></a>
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://linkedin.com/in/shivam-bhatt-1a36b621b">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/shivambhatt15">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivambhatt15&show_icons=true&locale=en&layout=compact" alt="shivambhatt15" /></p>
+### 💡 Developer Quote
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivambhatt15&show_icons=true&cache_seconds=1800&locale=en" alt="shivambhatt15" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivambhatt15&" alt="shivambhatt15" /></p>
+> "Great websites are not just built — they are engineered for performance, conversion, and user experience."
