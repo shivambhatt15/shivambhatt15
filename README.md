@@ -67,25 +67,79 @@ Building high-converting eCommerce experiences with Shopify, WordPress and moder
   </a>
 </p>
 
-### Frontend
+<h3>🎨 Frontend</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass" />
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+</a>
+
+<a href="https://sass-lang.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=sass" />
+</a>
+
 </p>
 
-### Backend
+<h3>⚙️ Backend</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,nodejs,mysql" />
+<p align="left">
+
+<a href="https://www.php.net/" target="_blank">
+<img src="https://skillicons.dev/icons?i=php" />
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
 </p>
 
-### Tools
+<h3>🛠️ Tools</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=figma" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman" />
+</a>
+
 </p>
-
----
 
 ## 📊 GitHub Stats
 
