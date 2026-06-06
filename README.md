@@ -47,12 +47,26 @@ Building high-converting eCommerce experiences with Shopify, WordPress and moder
 
 ### Ecommerce
 
+<h3>🛒 Ecommerce</h3>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Magento-EA7600?style=for-the-badge&logo=magento&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <a href="https://www.shopify.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="50" height="50"/>
+  </a>
+
+  <a href="https://business.adobe.com/products/magento/magento-commerce.html" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/magento.svg" alt="Magento 2" width="50" height="50"/>
+  </a>
+
+  <a href="https://wordpress.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress"/>
+  </a>
+
+  <a href="https://woocommerce.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" alt="WooCommerce" width="50" height="50"/>
+  </a>
 </p>
+
 ### Frontend
 
 <p>
