@@ -47,10 +47,12 @@ Building high-converting eCommerce experiences with Shopify, WordPress and moder
 
 ### Ecommerce
 
-<p>
-<img src="https://skillicons.dev/icons?i=shopify,wordpress" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Magento-EA7600?style=for-the-badge&logo=magento&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 </p>
-
 ### Frontend
 
 <p>
